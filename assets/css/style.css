@@ -1,0 +1,120 @@
+body  {
+    background: #000000;
+    font-family: 'Raleway', sans-serif;  
+    margin: 0;   
+
+}
+
+.header-iguana {
+    
+    width: 100%;
+    margin-top: 2%;
+
+}
+
+.icon-section {
+
+    margin: 100px;
+    margin-left: 0%;
+    text-align: center;
+    background: #1E1A13;    
+    width: 100%;
+    vertical-align: middle;
+    padding: 4.25rem;
+}
+
+.fotos {
+    display: inline-block;
+    
+}
+
+.fotos img {
+    width: 316px;
+    height: 202px;
+    margin-left: 120px;
+    white-space: nowrap;
+
+}
+
+.oscuro {
+    margin: 16px;
+    text-align: center;
+    background: #1E1A13;
+    color: #ffffff;
+    padding: 1.25rem;
+}
+
+footer i {
+    margin: 0 0.25em 0.5em 0.25em;
+}
+
+.negro {
+
+    text-align: center;
+    color: #ffffff;
+    background-size: cover;
+    font-size: 2rem;
+    width: 221px;
+    height: 59px;
+    margin-left: 43%;
+
+}
+
+.desc-section {
+    
+    text-align: left;
+    background: #000000;
+    color: #ffffff;
+    white-space: nowrap;
+
+}
+
+.iguana1 {
+    
+    width: 30%;
+    margin-left: -20%;   
+
+}
+
+.caract {
+
+    margin-left: 36%;   
+    width: 356px;
+    height: 47px;
+    text-align: center;
+    color: #ffffff;
+    
+}
+
+.bar {
+    height: 37px;
+}
+
+.texto {
+    width: 60%;
+    text-align: justify;
+    display: inline-block;
+    font-size: small;
+    margin-left: 15%;
+}
+
+.evento {
+
+    display: inline-block;
+    text-align: center;
+    padding-right: 10%;
+    white-space: nowrap;
+    margin-left: 40px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.evento a {
+
+    color: #ffffff;
+}
+
+.fotosdiv {
+    text-align: center;
+    margin-bottom: 5rem;
+}
